@@ -12,7 +12,7 @@
 
 I am a passionate **Software Engineer** specializing in building high-performance applications across web and mobile platforms. With a background in **Computer Science** and intensive training at **ITI**, I focus on writing clean, maintainable code using modern frameworks and **Clean Architecture**.
 
-- 🎓 **ITI Graduate** | Intake 44
+- 🎓 **ITI Graduate** 
 - 🚀 Specialized in **React, Next.js, Flutter, and React Native**.
 - 🛠️ Experience in building scalable **Full-Stack** solutions with **Node.js**.
 - 📍 Based in Zagazig, Egypt.
@@ -42,10 +42,6 @@ I am a passionate **Software Engineer** specializing in building high-performanc
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamdyabdo11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdyabdo11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdyabdo11&theme=tokyonight&hide_border=true" width="100%" />
