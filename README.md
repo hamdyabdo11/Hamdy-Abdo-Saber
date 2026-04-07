@@ -32,5 +32,4 @@ I am a passionate **Software Engineer** specializing in building high-performanc
 - **Email:** hamdy141999@gmail.com
 - **WhatsApp:** 01011657027
 
----
-*“Building seamless digital experiences from Zagazig to the world.”*
+
